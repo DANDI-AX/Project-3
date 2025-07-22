@@ -17,7 +17,8 @@ An interactive desktop application built with **Kivy** that allows users to sele
 
 ## 🖼️ What It Looks Like
 
->  ![Image Alt]( https://github.com/DANDI-AX/Project-3/blob/0af95b8b1fbb85e53c246d4d79b12155e766dc80/Screenshot%202025-07-22%20232306.png)  
+>  ![Image Alt]( https://github.com/DANDI-AX/Project-3/blob/0af95b8b1fbb85e53c246d4d79b12155e766dc80/Screenshot%202025-07-22%20232306.png)
+>  ![Image Alt](https://github.com/DANDI-AX/Project-3/blob/0a7fcb58a0ed7fac4ebf45b57d0a0d50452db984/Screenshot%202025-07-22%20232333.png)  
 > 
 ---
 

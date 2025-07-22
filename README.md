@@ -17,9 +17,8 @@ An interactive desktop application built with **Kivy** that allows users to sele
 
 ## 🖼️ What It Looks Like
 
-> Add your screenshot or GIF here  
-> You’ll see a color picker and a live-updating preview button.
-
+>  ![Image Alt]( https://github.com/DANDI-AX/Project-3/blob/0af95b8b1fbb85e53c246d4d79b12155e766dc80/Screenshot%202025-07-22%20232306.png)  
+> 
 ---
 
 ## 🔧 Requirements
